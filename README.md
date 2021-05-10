@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/TokiharaSay/Pic/Hackintosh/Y7000-2018.png" width="350px">
+<img src="https://cdn.jsdelivr.net/gh/TokiharaSay/Pic/Hackintosh/RedmiBook14.png" width="350px">
 </div>
 
 <h1 align="center">RedmiBook14 8th Hackintosh</h1>
